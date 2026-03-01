@@ -2,7 +2,7 @@
 :house_with_garden: I live in Colombia, Villavicencio.<br>
 :computer: I am beginner Full Stack developer and Videogame creator.<br>
 
-### Skill-set
+### Basic-Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
